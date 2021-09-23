@@ -2,7 +2,7 @@ package org.exoplatform.agenda.service;
 
 import java.util.List;
 
-import javax.servlet.ServletContext;
+import jakarta.servlet.ServletContext;
 
 import org.apache.commons.lang3.StringUtils;
 
